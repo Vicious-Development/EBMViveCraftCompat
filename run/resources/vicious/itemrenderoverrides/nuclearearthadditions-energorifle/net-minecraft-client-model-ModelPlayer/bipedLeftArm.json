@@ -1,0 +1,11 @@
+{
+"Active": "true",
+"OverrideRotation": "true",
+  "rx": "-75.0",
+  "ry": "35.0",
+  "rz": "-5.0",
+"OverrideTranslation": "true",
+  "tx": "-0.05",
+  "ty": "0.0",
+  "tz": "-0.2"
+}

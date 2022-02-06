@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ebmvccompat",
+  "name": "Extra Bit Manipulation ViveCraft Compact",
+  "description": "Allows EBM armor to work with Vivecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Drathonix"],
+  "credits": "God",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
